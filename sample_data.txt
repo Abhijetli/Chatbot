@@ -1,0 +1,8 @@
+Natural Language Processing
+Today, around 70% of total enterprise data is available in the unstructured or more precisely textual form. This comes from information stored across enterprises and includes information of employees, company purchase, sale records, business transactions, the previous record of organizations, social media etc. While this data provides valuable context to enterprise performance areas, it is largely unused due to the inability of tool-sets to process it and huge effort needed to skim through it.
+
+
+How It Works
+We bring our expertise in Natural Language Processing (including Natural Language Understanding and Generation) and Text Mining to understand this textual information and generate insights. Traditionally, the challenges involved with processing data are related to understanding ambiguities and intents which are related to lexicons, syntax and reference. Using advanced techniques and machine learning based algorithms we create summaries which can be used for further insights.
+
+We can process text from a wide variety of source formats like images, PDFs, web, social media etc. with varying resolutions using a variety of scalable and advanced machine learned based pre-processing techniques.
